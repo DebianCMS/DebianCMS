@@ -1,0 +1,3 @@
+This software "DebianCMS" directly forked from "CerberusCMS" is donated to the Debian Software Community.
+
+https://wiki.debian.org/DFSGLicenses
