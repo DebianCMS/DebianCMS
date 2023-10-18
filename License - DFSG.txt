@@ -1,3 +1,3 @@
-This software "DebianCMS" directly forked from "CerberusCMS" is donated to the Debian Software Community.
+This ~125,000 line of PHP programming code web application software project "DebianCMS" Version Number — 1, Build Number — 0.1, Edit Number — 0001, Manual Edit Number — 001 directly forked from the web application software project "CerberusCMS" Version Number — 4, Build Number — 0.8, Edit Number — 4325, Manual Edit Number — 0208 and Edit Number — Final is donated to the Debian Software Community by the author G.C. Johnson on November, 1st of 2023 under the DFSG License as shown on the official Debian web server: https://www.Debian.org.
 
 https://wiki.debian.org/DFSGLicenses
